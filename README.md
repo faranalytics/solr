@@ -1,4 +1,4 @@
-# Solr Toolkit
+# Solr
 
 Tools and notes for running a Solr instance.
 
